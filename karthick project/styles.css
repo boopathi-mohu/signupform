@@ -1,0 +1,35 @@
+img{
+    width: 100px;
+    display: inline-block;
+    padding-left: 45%;
+}
+h1{
+    color:red;
+
+}
+hr{
+    display: inline-block;
+
+}
+h1,p{
+    text-align: center;
+}
+
+.one{
+    text-align: center;
+    margin: 10px;
+
+}
+.two{
+    text-align: center;
+    margin: 10px;
+}
+.three{
+    text-align: center;
+    margin: 10px;
+}
+.inline{
+    display: inline;
+    width: unset;
+    margin: 10px;
+}
